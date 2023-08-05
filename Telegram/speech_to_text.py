@@ -1,5 +1,3 @@
-# speech_to_text.py
-
 import speech_recognition as sr
 import config
 
